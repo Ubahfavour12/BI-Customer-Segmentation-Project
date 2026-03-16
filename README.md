@@ -24,5 +24,5 @@ Mall Customer Segmentation Dataset (Kaggle)
 
 Ubah Favour
 Ahmed
-Amjad Ali
+AmjadAli
 Sarib
